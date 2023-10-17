@@ -1,0 +1,7 @@
+﻿  isValidDecimal.cpp
+  vekvermiteingabeueber.cpp
+C:\Users\Ahmet\Desktop\Quellcodes C++\Project_vek_mitEingabeueberpruefung\vekvermiteingabeueber.cpp(119,18): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Ahmet\Desktop\Quellcodes C++\Project_vek_mitEingabeueberpruefung\vekvermiteingabeueber.cpp(354,15): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Ahmet\Desktop\Quellcodes C++\Project_vek_mitEingabeueberpruefung\vekvermiteingabeueber.cpp(146,9): warning C4101: "c": Unreferenzierte lokale Variable
+  Code wird generiert...
+  Project_vek_mitEingabeueberpruefung.vcxproj -> C:\Users\Ahmet\Desktop\Quellcodes C++\Project_vek_mitEingabeueberpruefung\x64\Debug\Project_vek_mitEingabeueberpruefung.exe
